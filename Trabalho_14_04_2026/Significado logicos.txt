@@ -1,0 +1,11 @@
+OR= quando pelo menos uma das entradas estiver ativa abre um saída 
+
+AND = quando as duas entradas estão ativas abre uma saída 
+
+NOR = quando tens pelo menos uma entrada ativa e fecha uma saída 
+
+NAND =  Quando temos duas entradas ativas fecha uma saída ou quando tivermos so uma entrada ativa ativa a saída 
+
+XOR = Quando so temos uma entrada ativa a saída abre 
+
+XNOR = Quando tens as duas entradas ativassem simultâneo abre uma saída  
