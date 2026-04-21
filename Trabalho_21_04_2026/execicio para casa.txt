@@ -1,0 +1,7 @@
+Sabendo a taxa de juro fixa, calcular num possível valor final a pagar ao banco
+
+Ex2
+sabendo que vão ter de criar um condigo que faça a correção do teste de forma automática, verificar se o formando tem nota positiva e mencionar o valor. O teste ter 4 exercícios cada um a contar 5 valores
+
+
+
